@@ -10,14 +10,6 @@ Boilerplate for PERN stack web applications.
     * Jest, React testing library, Puppeteer
     * Supertest
 
-### DevOps
-
-* __.travis.yml__
-* Container is where a program is mounted to a kernel, but the program has a separate disk space and place where it can write. Container does not see any process outside the container. 
-
-
-
-`docker build .` 
 ### Developer Features
 * __eslint__ (airbnb)
 * __Babel__
