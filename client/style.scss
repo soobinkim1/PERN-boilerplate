@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+$roboto-font: 'Rubik', sans-serif;
+$font-stack: $roboto-font, sans-serif;
+$primary-color: lighten(black, 40);
+$secondary-color: lighten(black, 60);
+
+body {
+  color: $primary-color;
+  font: 100% $font-stack;
+}
