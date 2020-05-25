@@ -4,7 +4,6 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: {
-    polyfill:'babel-polyfill',
     app: ['./client/index.js'],
     vendor: ['react', 'react-dom'],
   },

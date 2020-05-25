@@ -1,6 +1,6 @@
-# Boilerplate for PERN Stack
+# Boilerplate for PERN stack web apps
 
-Boilerplate for PERN stack web applications.
+Boilerplate for PERN stack web applications :heart:
 
 ### App
 * __Client__: React.js, React Router, SCSS
